@@ -162,7 +162,11 @@ Há uma dispersão grande de dados de QUANTIDADE_ESTOQUE.
 
 ![alt text](<Grafico Predicted x Actual.png>)
 
-Para ajustar o modelo de previsão de estoque inteligente, criei uma nova base de dados fictícia com mais features:
+Para ajustar o modelo de previsão de estoque inteligente, criei uma nova base de dados fictícia com mais features. A Base de dados é a:
+
+dataset_previsao_estoque_ficticio.csv
+
+Os campos desta base de dados nova tem os seguintes campos:
 
 
 | Campo                  | Descrição                                                |
@@ -190,7 +194,11 @@ Para ajustar o modelo de previsão de estoque inteligente, criei uma nova base d
 | **FERIADO** | Feriado |
 | **FIM_DE_SEMANA** | Fim de semana  |
 
-Métrica da nova base de dados:
+
+
+Métricas da nova base de dados:
+
+![alt text](<Indices nova base de dados.png>)
 
 | Métrica     | Interpretação                                          |
 | ----------- | ------------------------------------------------------ |
